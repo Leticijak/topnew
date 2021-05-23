@@ -35,3 +35,21 @@ footer {
   color: #777;
   border-top: 1px solid #eaeaea;
 }
+.error {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.error h1 {
+  color: rgb(156, 55, 55);
+}
+.error h2 {
+  color: rgb(156, 55, 55);
+}
+.error a {
+  background-color: rgb(63, 52, 52);
+  color: #fff;
+  text-shadow: 1px 1px 3px black;
+  padding: 10px 25px;
+}
