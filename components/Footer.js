@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
-    <div>
+    <footer>
       <p>Copyright 2021 Random List</p>
-    </div>
+    </footer>
   )
 }
