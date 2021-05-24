@@ -6,6 +6,7 @@ export default function Navbar() {
     <nav>
       <div className='logo'>
         <Image width={40} height={40} src='/logo2.png' alt='' />
+        <h1>Buy Chia Plots</h1>
       </div>
       <Link href='/'>
         <a>Home</a>
